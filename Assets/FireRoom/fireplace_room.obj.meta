@@ -1,0 +1,234 @@
+fileFormatVersion: 2
+guid: 779af7b657a99c746bcde49cbba3c860
+timeCreated: 1555704710
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: grey_and_white_room:group1_grey_and_white_room:pasted__group_grey_and_white_room:pasted__pasted__pPlane1_grey_and_white_room:polySurface1
+    100004: grey_and_white_room:group2_grey_and_white_room:pasted__group1_grey_and_white_room:pasted__pasted__group_grey_and_white_room:pasted__pasted__pasted__pPlane1_grey_and_white_room:polySurface1
+    100006: grey_and_white_room:group_grey_and_white_room:pasted__pPlane1_grey_and_white_room:polySurface1
+    100008: grey_and_white_room:Mesh_grey_and_white_room:polySurface1
+    100010: grey_and_white_room:Mesh_grey_and_white_room:polySurface1_MeshPart0
+    100012: grey_and_white_room:Mesh_grey_and_white_room:polySurface1_MeshPart1
+    100014: grey_and_white_room:Mesh_grey_and_white_room:polySurface1_MeshPart2
+    100016: grey_and_white_room:pPlane1_grey_and_white_room:polySurface1
+    400000: //RootNode
+    400002: grey_and_white_room:group1_grey_and_white_room:pasted__group_grey_and_white_room:pasted__pasted__pPlane1_grey_and_white_room:polySurface1
+    400004: grey_and_white_room:group2_grey_and_white_room:pasted__group1_grey_and_white_room:pasted__pasted__group_grey_and_white_room:pasted__pasted__pasted__pPlane1_grey_and_white_room:polySurface1
+    400006: grey_and_white_room:group_grey_and_white_room:pasted__pPlane1_grey_and_white_room:polySurface1
+    400008: grey_and_white_room:Mesh_grey_and_white_room:polySurface1
+    400010: grey_and_white_room:Mesh_grey_and_white_room:polySurface1_MeshPart0
+    400012: grey_and_white_room:Mesh_grey_and_white_room:polySurface1_MeshPart1
+    400014: grey_and_white_room:Mesh_grey_and_white_room:polySurface1_MeshPart2
+    400016: grey_and_white_room:pPlane1_grey_and_white_room:polySurface1
+    2300000: grey_and_white_room:group1_grey_and_white_room:pasted__group_grey_and_white_room:pasted__pasted__pPlane1_grey_and_white_room:polySurface1
+    2300002: grey_and_white_room:group2_grey_and_white_room:pasted__group1_grey_and_white_room:pasted__pasted__group_grey_and_white_room:pasted__pasted__pasted__pPlane1_grey_and_white_room:polySurface1
+    2300004: grey_and_white_room:group_grey_and_white_room:pasted__pPlane1_grey_and_white_room:polySurface1
+    2300006: grey_and_white_room:Mesh_grey_and_white_room:polySurface1_MeshPart0
+    2300008: grey_and_white_room:Mesh_grey_and_white_room:polySurface1_MeshPart1
+    2300010: grey_and_white_room:Mesh_grey_and_white_room:polySurface1_MeshPart2
+    2300012: grey_and_white_room:pPlane1_grey_and_white_room:polySurface1
+    3300000: grey_and_white_room:group1_grey_and_white_room:pasted__group_grey_and_white_room:pasted__pasted__pPlane1_grey_and_white_room:polySurface1
+    3300002: grey_and_white_room:group2_grey_and_white_room:pasted__group1_grey_and_white_room:pasted__pasted__group_grey_and_white_room:pasted__pasted__pasted__pPlane1_grey_and_white_room:polySurface1
+    3300004: grey_and_white_room:group_grey_and_white_room:pasted__pPlane1_grey_and_white_room:polySurface1
+    3300006: grey_and_white_room:Mesh_grey_and_white_room:polySurface1_MeshPart0
+    3300008: grey_and_white_room:Mesh_grey_and_white_room:polySurface1_MeshPart1
+    3300010: grey_and_white_room:Mesh_grey_and_white_room:polySurface1_MeshPart2
+    3300012: grey_and_white_room:pPlane1_grey_and_white_room:polySurface1
+    4300000: grey_and_white_room:group1_grey_and_white_room:pasted__group_grey_and_white_room:pasted__pasted__pPlane1_grey_and_white_room:polySurface1
+    4300002: grey_and_white_room:group2_grey_and_white_room:pasted__group1_grey_and_white_room:pasted__pasted__group_grey_and_white_room:pasted__pasted__pasted__pPlane1_grey_and_white_room:polySurface1
+    4300004: grey_and_white_room:group_grey_and_white_room:pasted__pPlane1_grey_and_white_room:polySurface1
+    4300006: grey_and_white_room:Mesh_grey_and_white_room:polySurface1_MeshPart0
+    4300008: grey_and_white_room:Mesh_grey_and_white_room:polySurface1_MeshPart1
+    4300010: grey_and_white_room:Mesh_grey_and_white_room:polySurface1_MeshPart2
+    4300012: grey_and_white_room:pPlane1_grey_and_white_room:polySurface1
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grey_and_white_room_BottleCap
+    second: {fileID: 2100000, guid: 639cbffff5cc59f4a8d408d2909b2222, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grey_and_white_room_Branches
+    second: {fileID: 2100000, guid: 37ce82a435c699643bafd31f414854cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grey_and_white_room_BrushedStainlessSteel
+    second: {fileID: 2100000, guid: d3d3069ad93008549b3cef03a7fe2e8f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grey_and_white_room_Dirt
+    second: {fileID: 2100000, guid: cf7a0ee3d29a9704a96e2aa7141785f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grey_and_white_room_FireplaceGlass
+    second: {fileID: 2100000, guid: 716b8aa67f5ae6a43870ddbed20d26d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grey_and_white_room_Floor
+    second: {fileID: 2100000, guid: 5ba2dd394ee927745a5f51dcb7ee27d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grey_and_white_room_Glass
+    second: {fileID: 2100000, guid: 1712ee64e32db944b83ef80358c48d9b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grey_and_white_room_Leaves
+    second: {fileID: 2100000, guid: 56df3757725f9934dbbc83a41052758b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grey_and_white_room_MattePaint
+    second: {fileID: 2100000, guid: 036620a1bd5497a469e9279a66b60f7f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grey_and_white_room_Mirror
+    second: {fileID: 2100000, guid: 65bcabfbdc89d914c9a621fe15cf3501, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grey_and_white_room_Painting
+    second: {fileID: 2100000, guid: 353f209411b32a84f9ec8136190f1bbc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grey_and_white_room_PaintingBack
+    second: {fileID: 2100000, guid: 455dfafb62b86b144ac4234459e7bfda, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grey_and_white_room_Paneling
+    second: {fileID: 2100000, guid: 7965bce1cd9e1b4458efe96fad8b48a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grey_and_white_room_PlantPot
+    second: {fileID: 2100000, guid: 92adb40a94ec0df41b47ab00e1c559b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grey_and_white_room_Sofa
+    second: {fileID: 2100000, guid: 2e73d4e187371724f9a91b7ef7cd3904, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grey_and_white_room_SofaLegs
+    second: {fileID: 2100000, guid: fbfdf7c18f883fc43ae28e8570f4bfa3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grey_and_white_room_TableWood
+    second: {fileID: 2100000, guid: 74cab6a4b47a92a4198bd670fb14ea5a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grey_and_white_room_Transluscent
+    second: {fileID: 2100000, guid: 0be94ddb5531ed4429e56331cc98fa7e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grey_and_white_room_Walls
+    second: {fileID: 2100000, guid: 10f109d055d37ce4a9b6f5ba4916f9be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grey_and_white_room_initialShadingGroup
+    second: {fileID: 2100000, guid: 0f3dafd68d659ca46bbb31a1a6e4d5a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grey_and_white_room_lambert2SG_light
+    second: {fileID: 2100000, guid: c885b69921a2e5f448846f9cd523601a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert3SG
+    second: {fileID: 2100000, guid: 7aa8dc0ab93787c419c96d8808639037, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: de292ad3acc68f94d87c14195380e9e4
+timeCreated: 1556303033
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - TexturePass0: {fileID: 8400000, guid: fd738ba93abf3f9488660d01c6486d40, type: 2}
+  - TexturePass1: {fileID: 8400000, guid: 31ca7dcf34cd134479829da750090241, type: 2}
+  - TexturePass2: {fileID: 8400000, guid: c1a7d82efeb3694458444b20a3d937bd, type: 2}
+  - TextureDenoise: {fileID: 8400000, guid: 8bbdac85675855e4da4e382ebb28cdb8, type: 2}
+  - Pass1: {fileID: 4800000, guid: b67400e943f412745aad2d8f4ae57934, type: 3}
+  - Pass2: {fileID: 4800000, guid: 777c58405efdc2b4e86061f3c59b4f2f, type: 3}
+  - DenoisePass: {fileID: 4800000, guid: d0030330c4c2deb41b27ab6f2f8620f8, type: 3}
+  - Pass1Material: {fileID: 2100000, guid: 86e42d96dcb206f49891dcd6aecba6e8, type: 2}
+  - Pass2Material: {fileID: 2100000, guid: ae11aa84b4906224f88b16e382624f61, type: 2}
+  - DenoiseMaterial: {fileID: 2100000, guid: e22c161034b79fb4bb8d55209612a7e1, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
